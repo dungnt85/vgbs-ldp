@@ -1,12 +1,14 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import emailjs from "emailjs-com";
-import React from "react";
+import { FiFacebook, FiTwitter, FiYoutube, FiInstagram } from "react-icons/fi";
+import { SiTiktok } from "react-icons/si"; 
 
 const initialState = {
   name: "",
   email: "",
   message: "",
 };
+
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
 
@@ -14,15 +16,13 @@ export const Contact = (props) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
+
   const clearState = () => setState({ ...initialState });
-  
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
       .then(
@@ -35,6 +35,7 @@ export const Contact = (props) => {
         }
       );
   };
+
   return (
     <div>
       <div id="contact">
@@ -128,20 +129,105 @@ export const Contact = (props) => {
           <div className="col-md-12">
             <div className="row">
               <div className="social">
-                <ul>
-                  <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                <ul style={{ position: 'relative', listStyle: 'none', padding: 0 }}>
+                  <li style={{ display: 'inline', margin: '0 15px' }}>
+                    <a
+                      href={props.data ? props.data.facebook : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        fontSize: '1.5em',
+                        color: 'white',
+                        border: '2px solid white',
+                        borderRadius: '50%',
+                        padding: '10px',
+                        display: 'inline-block',
+                        textAlign: 'center',
+                        width: '50px',
+                        height: '50px',
+                      }}
+                    >
+                      <FiFacebook />
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                  <li style={{ display: 'inline', margin: '0 15px' }}>
+                    <a
+                      href={props.data ? props.data.twitter : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        fontSize: '1.5em',
+                        color: 'white',
+                        border: '2px solid white',
+                        borderRadius: '50%',
+                        padding: '10px',
+                        display: 'inline-block',
+                        textAlign: 'center',
+                        width: '50px',
+                        height: '50px',
+                      }}
+                    >
+                      <FiTwitter />
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                  <li style={{ display: 'inline', margin: '0 15px' }}>
+                    <a
+                      href={props.data ? props.data.youtube : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        fontSize: '1.5em',
+                        color: 'white',
+                        border: '2px solid white',
+                        borderRadius: '50%',
+                        padding: '10px',
+                        display: 'inline-block',
+                        textAlign: 'center',
+                        width: '50px',
+                        height: '50px',
+                      }}
+                    >
+                      <FiYoutube />
+                    </a>
+                  </li>
+                  <li style={{ display: 'inline', margin: '0 15px' }}>
+                    <a
+                      href={props.data ? props.data.instagram : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        fontSize: '1.5em',
+                        color: 'white',
+                        border: '2px solid white',
+                        borderRadius: '50%',
+                        padding: '10px',
+                        display: 'inline-block',
+                        textAlign: 'center',
+                        width: '50px',
+                        height: '50px',
+                      }}
+                    >
+                      <FiInstagram />
+                    </a>
+                  </li>
+                  <li style={{ display: 'inline', margin: '0 15px' }}>
+                    <a
+                      href={props.data ? props.data.tiktok : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{
+                        fontSize: '1.5em',
+                        color: 'white',
+                        border: '2px solid white',
+                        borderRadius: '50%',
+                        padding: '10px',
+                        display: 'inline-block',
+                        textAlign: 'center',
+                        width: '50px',
+                        height: '50px',
+                      }}
+                    >
+                      <SiTiktok />
                     </a>
                   </li>
                 </ul>
