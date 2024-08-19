@@ -131,24 +131,24 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/nick-craig.png",
+      "name": "Nick Craig",
+      "job": "Chủ tịch & Nhà sáng lập Core Leadership Institute"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/tran-tue-tri.webp",
+      "name": "Trần Tuệ Tri",
+      "job": "Cố vấn cấp cao Chuyên gia xây dựng Thương hiệu Tác giả | Tổng giám đốc Pharmacity"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/nguyen-thanh-giang.webp",
+      "name": "Nguyễn Thanh Giang",
+      "job": "Tổng giám đốc điều hành & Đồng sáng lập Purpose.Ant"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/Alex-Haigh.webp",
+      "name": "Alex Haigh",
+      "job": "Tổng giám đốc điều hành, Brand Finance"
     }
   ],
   "Contact": {
