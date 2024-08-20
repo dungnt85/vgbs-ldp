@@ -145,7 +145,7 @@
   ],
   "Contact": {
     "address": "Tầng 9, Tòa nhà Empress Tower, 138-142 Hai Bà Trưng, P.Đa Kao, Q.1, TP.Hồ Chí Minh",
-    "phone": "+1 123 456 1234",
+    "phone": "+1 234 567 8910",
     "email": "info@vietnambrandpurpose.com",
     "facebook": "https://www.facebook.com/vietnambrandpurpose",
     "linkedin": "https://www.linkedin.com/company/vietnam-brand-purpose/",
@@ -155,27 +155,22 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "“THE PURPOSE TO IMPACT™” PROGRAM",
-      "text": "Quá trình chuyển đổi từ tình trạng không ổn định sang tình trạng bền vững bắt đầu từ Lãnh đạo Cốt lõi."
+      "title": "Chương Trình LÃNH ĐẠO TUỆ GIÁC",
+      "text": "Một trải nghiệm mang tính chuyển đổi giúp các nhà lãnh đạo và nhóm của họ khám phá món quà độc đáo mà họ mang đến cho thế giới—mục đích của họ. Người tham gia sẽ hiểu sâu hơn về các đặc điểm cá nhân của mình, khơi dậy sự tự tin và truyền cảm hứng cho những người khác theo họ khi đối mặt với những điều bất ngờ."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "“TOP 100 MOST VALUABLE BRANDS” CELEBRATION & RECOGNITION DINNER",
-      "text": "Gặp gỡ & Khám phá cách tăng cường Giá trị Thương hiệu thông qua hương hiệu dẫn dắt bền vững”™  /n- Chứng nhận Top 100 Thương hiệu Việt Nam được trao tặng."
+      "title": "Diễn đàn THƯƠNG HIỆU DẪN DẮT BỀN VỮNG™",
+      "text": "Gặp gỡ, nghiên cứu, thu thập thông tin quý giá và có thể thực hiện được từ những cá nhân tham gia vào chiến lược Bền vững do Thương hiệu dẫn dắt bền vững”™, các nhà lãnh đạo ngành và những người thực hành có tư duy tiến bộ trong nhiều lĩnh vực khác nhau."
     },
     {
       "icon": "fa fa-group",
-      "title": "“BRAND-LED SUSTAINABILITY™” FORUM",
-      "text": "Gặp gỡ, nghiên cứu và thu thập thông tin quý giá và có thể thực hiện được từ những cá nhân tham gia vào chiến lược Bền vững do Thương hiệu dẫn dắt bền vững”™, các nhà lãnh đạo ngành và những người thực hành có tư duy tiến bộ trong nhiều lĩnh vực khác nhau."
+      "title": "Triển lãm nghệ thuật FEEDBACK LOOPS",
+      "text": "Buổi triển lãm có tầm vóc với sự tham gia của hơn 40 nghệ sĩ đương đại Quốc tế và Việt Nam, kết hợp cùng nhiều thương hiệu để khám phá nhiều mô hình bền vững khác nhau, tạo ra một không gian nơi nghệ thuật, công nghệ và xã hội giao thoa để đánh giá và tái hiện một cách nghiêm túc."
     },
     {
       "icon": "fa fa-magic",
-      "title": "INTERNATIONAL ART EXHIBITION “FEEDBACK LOOPS”",
-      "text": "Triển lãm nghệ thuật với sự góp mặt nghê sĩ quốc tế."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "KOTLER AWARDS",
+      "title": "Giải thưởng KOTLER",
       "text": "Sự công nhận toàn cầu từ chuyên gia tiếp thị nổi tiếng dành cho các nhà tiếp thị có ảnh hưởng."
     }
   ]
