@@ -5,7 +5,7 @@ export const Sponsors = (props) => {
     <div id="sponsors" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Đối tác & Tài trợ Q</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
