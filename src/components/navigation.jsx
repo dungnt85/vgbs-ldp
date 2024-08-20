@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            VGBS™ 2024
+            QVGBS™ 2024
           </a>{" "}
         </div>
 
@@ -39,7 +39,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Diễn giả
+                Diễn giả Q
               </a>
             </li>
             <li>
