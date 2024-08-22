@@ -2,7 +2,7 @@ import React from "react";
 
 export const Sponsors = (props) => {
   return (
-    <div id="sponsor">
+    <div id="sponsors">
       <div className="container">
         <div className="section-title text-center">
           <h2>Đối tác</h2>
@@ -11,8 +11,8 @@ export const Sponsors = (props) => {
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
-                  <div className="sponsor">
-                    <div className="sponsor-image">
+                  <div className="sponsors">
+                    <div className="sponsors-image">
                       <img src={d.img} alt="" />
                     </div>
                   </div>
