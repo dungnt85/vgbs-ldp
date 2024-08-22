@@ -576,6 +576,7 @@ label {
   border: 2px solid #fff;
   color: #fff;
   border-radius: 50%;
+  text-align: center;
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
