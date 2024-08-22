@@ -453,9 +453,10 @@ header .intro-text {
 .sponsors {
   position: relative;
   padding: 20px;
+  text-align: center;
 }
 .sponsors-image {
-  float: left;
+  float: inherit;
   margin-right: 15px;
 }
 .sponsors-image,
@@ -464,21 +465,6 @@ header .intro-text {
   height: 64px;
   width: auto;
   border-radius: 50%;
-}
-.sponsors-content {
-  position: relative;
-  overflow: hidden;
-}
-.sponsors-content p {
-  margin-bottom: 0;
-  font-size: 14px;
-  font-style: italic;
-}
-.sponsors-meta {
-  margin-top: 10px;
-  font-size: 15px;
-  font-weight: 600;
-  color: #666;
 }
 /* Team Section */
 #team {
