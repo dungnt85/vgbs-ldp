@@ -622,6 +622,10 @@ label {
   color: #608dfd;
   background: #fff;
 }
+#footer .logo {
+  position: relative;
+  padding: 20px;
+}
 #footer .logo-image,
 .logo-image img {
   display: block;
