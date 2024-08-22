@@ -476,7 +476,7 @@ header .intro-text {
 }
 #team .team-img {
   width: 160px;
-  border: 1px solid linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  border: 1px solid #777;
   border-radius: 50%;
 }
 #team .thumbnail {
