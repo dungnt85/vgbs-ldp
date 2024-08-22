@@ -480,6 +480,7 @@ header .intro-text {
 }
 #team .thumbnail {
   background: transparent;
+  border: 0;
 }
 #team .thumbnail .caption {
   padding: 10px 0 0;
