@@ -22,9 +22,8 @@ export const Footer = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
-                {props.data ? props.data.email : "loading"}
+                  <i className="fa fa-envelope-o"></i> info@vietnambrandpurpose.com
+                </span>
               </p>
               <p>
                 <div className="social">
