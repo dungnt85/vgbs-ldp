@@ -48,11 +48,6 @@ export const Footer = (props) => {
               </p>
             </div>
           </div>
-          <div className="col-md-12">
-            <div className="row">
-              <p>A member of Purpose Group. Copyright © 2024 Vietnam Brand Purpose. All Rights Reserved.</p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
