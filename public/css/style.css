@@ -447,12 +447,12 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
+  width: 180px;
   border-radius: 50%;
 }
 #team .thumbnail {
   background: transparent;
-  border: 0;
+  border: 2px solid rgba(122, 29, 31, 0.8);
 }
 #team .thumbnail .caption {
   padding: 10px 0 0;
@@ -630,6 +630,7 @@ label {
   display: block;
   width: 64px;
   height: 64px;
+  padding: 0 20px 0 0;
 }
 
 @media (max-width: 768px) {
