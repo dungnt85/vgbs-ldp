@@ -32,8 +32,8 @@ const App = () => {
       <About data={landingPageData.About} />
       <Features data={landingPageData.Features} />
       <Team data={landingPageData.Team} />
-      <Sponsors data={landingPageData.Team} />
-      <Footer data={landingPageData.Contact} />
+      <Sponsors data={landingPageData.Testimonials} />
+      <Footer />
     </div>
   );
 };
