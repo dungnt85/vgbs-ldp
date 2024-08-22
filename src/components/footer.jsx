@@ -4,7 +4,7 @@ import React from "react";
 export const Footer = (props) => {
   return (
     <div>
-      <div id="contact">
+      <div id="footer">
         <div className="container">
           <div className="col-md-8">
             <div className="row">
