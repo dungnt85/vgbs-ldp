@@ -439,6 +439,47 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+
+/* Sponsors Section */
+#sponsors {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+#sponsors i {
+  color: #e6e6e6;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.sponsors {
+  position: relative;
+  padding: 20px;
+}
+.sponsors-image {
+  float: left;
+  margin-right: 15px;
+}
+.sponsors-image,
+.sponsors-image img {
+  display: block;
+  height: 64px;
+  width: auto;
+  border-radius: 50%;
+}
+.sponsors-content {
+  position: relative;
+  overflow: hidden;
+}
+.sponsors-content p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-style: italic;
+}
+.sponsors-meta {
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #666;
+}
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -628,8 +669,8 @@ label {
 #footer .logo-image,
 .logo-image img {
   display: block;
-  width: 64px;
   height: 64px;
+  width: auto;
   padding: 0 20px 0 0;
 }
 
