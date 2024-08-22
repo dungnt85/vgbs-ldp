@@ -608,11 +608,11 @@ label {
   margin: 0 8px 0 0;
 }
 #footer .social i.fa {
-  font-size: 22px;
-  width: 48px;
-  height: 48px;
+  font-size: 12px;
+  width: 28px;
+  height: 28px;
   padding: 12px 0;
-  border: 2px solid #fff;
+  border: 1px solid #fff;
   color: #fff;
   border-radius: 50%;
   text-align: center;
@@ -626,5 +626,6 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+    text-align: center;
   }
 }
