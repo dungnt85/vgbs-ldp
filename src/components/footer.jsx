@@ -40,10 +40,10 @@ export const Footer = (props) => {
                 </ul>
               </div>
               </p>
-              <h3>Contact Info</h3>
+              <h3>Thông tin liên hệ</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Địa chỉ
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
@@ -51,7 +51,7 @@ export const Footer = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Phone
+                  <i className="fa fa-phone"></i> Điện thoại
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
