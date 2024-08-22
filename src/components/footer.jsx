@@ -29,7 +29,7 @@ export const Footer = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.linkedin : "/"}>
-                      <i className="fa fa-fa-linkedin"></i>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                   <li>
