@@ -8,12 +8,13 @@ export const Footer = (props) => {
         <div className="container">
           <div className="col-md-8">
             <div className="row">
-              <div className="section-title">
-                <h2>Get In Touch</h2>
-                <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
-                </p>
+              <div className="testimonial">
+                    <div className="testimonial-image">
+                      <img src="/img/vbp-footer.png" alt="" />
+                    </div>
+                    <div className="testimonial-content">
+                      <p>"Vietnam Brand Purpose là tổ chức tiên phong Tư vấn chiến lược Xây dựng Thương hiệu Quốc Gia Việt Nam và các thương hiệu Made-in-Vietnam, với tầm nhìn gia tăng giá trị và xếp hạng Thương hiệu Việt Nam trên trường quốc tế, vươn Top 30 giá trị Thương hiệu quốc gia mạnh nhất trên thế giới."</p>
+                    </div>
               </div>
             </div>
           </div>
