@@ -611,7 +611,7 @@ label {
   font-size: 12px;
   width: 28px;
   height: 28px;
-  padding: 4px 0;
+  padding: 8px 0;
   border: 1px solid #fff;
   color: #fff;
   border-radius: 50%;
@@ -621,6 +621,12 @@ label {
 #footer .social i.fa:hover {
   color: #608dfd;
   background: #fff;
+}
+#footer .logo-image,
+.logo-image img {
+  display: block;
+  width: 64px;
+  height: 64px;
 }
 
 @media (max-width: 768px) {
