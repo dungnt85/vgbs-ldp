@@ -9,6 +9,7 @@ import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/team";
 import { Sponsors } from "./components/sponsors";
 import { Contact } from "./components/contact";
+import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -33,6 +34,7 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Sponsors data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
+      <Footer data={landingPageData.Contact} />
     </div>
   );
 };
