@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Viet Nam Global Brand Summit",
+    "title": "Vietnam Global Brand Summit",
     "paragraph": "HO CHI MINH CITY - November 2024"
   },
   "About": {
-    "paragraph": "Diễn Đàn Thương Hiệu Toàn Cầu là diễn đàn hàng năm hội tụ các nhà lãnh đạo hàng đầu, chủ thương hiệu, chuyên gia ngành và những người có ảnh hưởng để thúc đẩy ý tưởng sáng tạo và giải pháp tiên tiến nhằm nâng cao vị thế toàn cầu của các thương hiệu Việt Nam.",
+    "paragraph": "The first-ever Vietnam Global Brand Summit™ 2024 is set to take place in Ho Chi Minh City, focusing on the imperative themes of sustainability with the pioneering Brand-Led Sustainability™ approach. The summit features an impressive lineup of policymakers, global and Vietnamese brand innovators, international industry leaders, sustainability experts, and influencers. It promises to be a groundbreaking series of events, offering deep insights into brand-led sustainability and its impact on consumer behavior and business growth globally.",
     "Why": [
     ],
     "Why2": [
@@ -125,22 +125,22 @@
     {
       "img": "img/team/nick-craig.png",
       "name": "Nick Craig",
-      "job": "Chủ tịch & Nhà sáng lập Core Leadership Institute"
+      "job": "President and Founder of CLI"
     },
     {
       "img": "img/team/tran-tue-tri.webp",
-      "name": "Trần Tuệ Tri",
-      "job": "Cố vấn cấp cao Chuyên gia xây dựng Thương hiệu Tác giả | Tổng giám đốc Pharmacity"
+      "name": "Tran Tue Tri",
+      "job": "Senior Advisor | Brand Expert | Author | CEO of Pharmacity"
     },
     {
       "img": "img/team/nguyen-thanh-giang.webp",
-      "name": "Nguyễn Thanh Giang",
-      "job": "Tổng giám đốc điều hành & Đồng sáng lập Purpose.Ant"
+      "name": "Nguyen Thanh Giang",
+      "job": "Brand Expert | CEO & Co-founder of Purpose.Ant"
     },
     {
       "img": "img/team/Alex-Haigh.webp",
       "name": "Alex Haigh",
-      "job": "Tổng giám đốc điều hành, Brand Finance"
+      "job": "Managing Director, Brand Finance"
     }
   ],
   "Contact": {
@@ -155,23 +155,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Chương Trình LÃNH ĐẠO TUỆ GIÁC",
-      "text": "Một trải nghiệm mang tính chuyển đổi giúp các nhà lãnh đạo và nhóm của họ khám phá món quà độc đáo mà họ mang đến cho thế giới—mục đích của họ. Người tham gia sẽ hiểu sâu hơn về các đặc điểm cá nhân của mình, khơi dậy sự tự tin và truyền cảm hứng cho những người khác theo họ khi đối mặt với những điều bất ngờ."
+      "title": "THE PURPOSE TO IMPACT™",
+      "text": "The Purpose to Impact™ Program is a transformative experience that helps leaders and their teams to uncover the unique gift they bring to the world—their purpose. Participants walk away with a deeper understanding of their individual characteristics that evoke confidence and inspire others to follow them when dealing with the unexpected."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Diễn đàn THƯƠNG HIỆU DẪN DẮT BỀN VỮNG™",
-      "text": "Gặp gỡ, nghiên cứu, thu thập thông tin quý giá và có thể thực hiện được từ những cá nhân tham gia vào chiến lược Bền vững do Thương hiệu dẫn dắt bền vững”™, các nhà lãnh đạo ngành và những người thực hành có tư duy tiến bộ trong nhiều lĩnh vực khác nhau."
+      "title": "BRAND-LED SUSTAINABILITY FORUM",
+      "text": "An opportunity to meet, learn and collect valuable and actionable insights from brand-led sustainabilityTM game-changers,  industry leaders, and forward-thinking practitioners across various sectors. By integrating thought-provoking perspectives ignited from the summit, you’ll champion the brand-led sustainabilityTM transformation to drive brand innovation, consumer choices, and profitability."
     },
     {
       "icon": "fa fa-group",
-      "title": "Triển lãm nghệ thuật FEEDBACK LOOPS",
-      "text": "Buổi triển lãm có tầm vóc với sự tham gia của hơn 40 nghệ sĩ đương đại Quốc tế và Việt Nam, kết hợp cùng nhiều thương hiệu để khám phá nhiều mô hình bền vững khác nhau, tạo ra một không gian nơi nghệ thuật, công nghệ và xã hội giao thoa để đánh giá và tái hiện một cách nghiêm túc."
+      "title": "FEEDBACK LOOPS INTERNATIONAL ART EXHIBITION",
+      "text": "The exhibition gathers 40 artists from various countries around the world (Korea, New York, Japan, China) and Vietnam, as well as collectives and brands collaborating to explore different sustainable models, creating a space where art, technology, and society intersect. Under the theme 'Sustainability-driven Brands' of the Forum, the art exhibition designed to offer an 'immersive experience' for visitors. In this context, visitors can navigate through a world of images and choose their favorite content."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Giải thưởng KOTLER",
-      "text": "Sự công nhận toàn cầu từ chuyên gia tiếp thị nổi tiếng dành cho các nhà tiếp thị có ảnh hưởng."
+      "title": "KOTLER AWARDS",
+      "text": "Kotler Awards are developed to honour true excellence in the field of marketing and business management around the world. Kotler Award recognizes top marketing, communications, and business management professionals. At the same time, it will raise awareness of the creativity and originality delivered by practitioners at the forefront of their professions. This award also serves as a platform to showcase new start-ups and unique innovations which have set new standards for the industry, while highlighting winning strategies in this era of digitalization and the 4th industrial revolution."
     }
   ]
 }
