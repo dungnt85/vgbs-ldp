@@ -5,7 +5,7 @@ export const Sponsors = (props) => {
     <div id="sponsors">
       <div className="container">
         <div className="section-title text-center">
-          <h2>Đối tác</h2>
+          <h2>Partners</h2>
         </div>
         <div className="row">
           {props.data
