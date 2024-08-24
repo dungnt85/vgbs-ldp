@@ -18,16 +18,16 @@ h2 {
   margin: 0 0 20px;
   font-weight: 800;
   font-size: 36px;
-  color: #333;
+  color: #0a4e9b;
 }
 h3 {
   font-size: 20px;
   font-weight: 600;
-  color: #333;
+  color: #0a4e9b;
 }
 h4 {
   font-size: 18px;
-  color: #333;
+  color: #0a4e9b;
   font-weight: 600;
 }
 h5 {
@@ -43,13 +43,13 @@ p.intro {
   line-height: 24px;
 }
 a {
-  color: #608dfd;
+  color: #4495d1;
   font-weight: 400;
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #608dfd;
+  color: #4495d1;
 }
 ul,
 ol {
@@ -84,7 +84,7 @@ hr {
   font-family: "Bricolage Grotesque", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #0a4e9b;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -136,10 +136,10 @@ hr {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #608dfd;
+  border-color: #4495d1;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
-  background-color: #608dfd;
+  background-color: #4495d1;
 }
 .section-title {
   margin-bottom: 70px;
@@ -611,7 +611,7 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: #4495d1;
   background: #fff;
 }
 /* Footer Section*/
