@@ -206,9 +206,9 @@ a:focus,
 .intro {
   display: table;
   height: 225;
-  /*width: 100%;*/
+  width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/intro-bg2.jpg) center center no-repeat;
   background-color: #0a4e9b;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -240,8 +240,8 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
+  padding-top: 125px;
+  padding-bottom: 100px;
   text-align: center;
 }
 /* Features Section */
@@ -475,7 +475,7 @@ header .intro-text {
 }
 #team .team-img {
   width: 160px;
-  border: 1px solid #a5d0cc;
+  border: 1px solid #0a4e9b;
   /*border-image: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%) 1;*/
   border-radius: 50%;
 }
