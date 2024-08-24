@@ -20,6 +20,11 @@ export const Sponsors = (props) => {
               ))
             : "loading"}
         </div>
+        <div className="row">
+          <a href="#features" className="btn btn-custom btn-lg page-scroll">
+            BECOME OUR PARTNER OR SPONSOR
+          </a>
+        </div>
       </div>
     </div>
   );
