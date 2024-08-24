@@ -475,8 +475,8 @@ header .intro-text {
 }
 #team .team-img {
   width: 160px;
-  border: 1px solid #777;
-  border-image: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
+  border: 1px solid #a5d0cc;
+  /*border-image: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%) 1;*/
   border-radius: 50%;
 }
 #team .thumbnail {
