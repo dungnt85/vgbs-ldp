@@ -625,10 +625,10 @@ label {
   font-size: 14px;
 }
 #footer a {
-  color: #608dfd;
+  color: #4495d1;
 }
 #footer a:hover {
-  border-bottom: 2px solid #608dfd;
+  border-bottom: 2px solid #0a4e9b;
 }
 #footer .social {
   padding-top: 0px;
@@ -650,7 +650,7 @@ label {
   transition: all 0.3s;
 }
 #footer .social i.fa:hover {
-  color: #608dfd;
+  color: #0a4e9b;
   background: #fff;
 }
 #footer .logo {
