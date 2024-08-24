@@ -628,7 +628,7 @@ label {
   color: #4495d1;
 }
 #footer a:hover {
-  border-bottom: 2px solid #0a4e9b;
+  /*border-bottom: 2px solid #0a4e9b;*/
 }
 #footer .social {
   padding-top: 0px;
@@ -650,7 +650,8 @@ label {
   transition: all 0.3s;
 }
 #footer .social i.fa:hover {
-  color: #0a4e9b;
+  color: #4495D1;
+  text-decoration: none;
   background: #fff;
 }
 #footer .logo {
