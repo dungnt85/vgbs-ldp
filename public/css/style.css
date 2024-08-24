@@ -184,7 +184,7 @@ hr {
 .btn-custom:active,
 .btn-custom.active {
   color: #fff;
-  background-image: linear-gradient(to right, #a5d0cc 0%, #0a4e9b 100%);
+  background-image: none;
   background-color: #0a4e9b;
 }
 .btn:active,
@@ -477,7 +477,8 @@ header .intro-text {
 }
 #team .team-img {
   width: 160px;
-  border: 1px solid #777;
+  /*border: 1px solid #777;*/
+  border: 1px solid linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
   border-radius: 50%;
 }
 #team .thumbnail {
