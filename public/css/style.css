@@ -58,8 +58,6 @@ ol {
 ul,
 ol {
   padding: 0;
-  webkit-padding: 0;
-  moz-padding: 0;
 }
 hr {
   height: 2px;
@@ -373,8 +371,8 @@ header .intro-text {
   color: #fff;
   background: linear-gradient(
     to right,
-    rgba(99, 114, 255, 0.8) 0%,
-    rgba(92, 169, 251, 0.8) 100%
+    rgba(10, 78, 155, 0.6) 0%,
+    rgba(165, 208, 204, 0.6) 100%
   );
   padding: 30% 0 0;
   height: 100%;
@@ -395,7 +393,6 @@ header .intro-text {
 }
 .hover-bg:hover .hover-text > h4 {
   opacity: 1;
-  -webkit-backface-visibility: hidden;
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
@@ -627,9 +624,6 @@ label {
 }
 #footer a {
   color: #4495d1;
-}
-#footer a:hover {
-  /*border-bottom: 2px solid #0a4e9b;*/
 }
 #footer .social {
   padding-top: 0px;
