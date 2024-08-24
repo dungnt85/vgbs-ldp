@@ -205,7 +205,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  height: 450;
+  height: 225;
   /*width: 100%;*/
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
@@ -258,7 +258,7 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
+  background: #0a4e9b;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
