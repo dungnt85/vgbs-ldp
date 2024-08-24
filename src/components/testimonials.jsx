@@ -25,6 +25,9 @@ export const Testimonials = (props) => {
               ))
             : "loading"}
         </div>
+        <a href="#features" className="btn btn-custom btn-lg page-scroll">
+          BECOME A PARTNER
+        </a>{" "}
       </div>
     </div>
   );
