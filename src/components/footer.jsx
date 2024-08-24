@@ -8,12 +8,12 @@ export const Footer = (props) => {
         <div className="container">
           <div className="col-md-8">
             <div className="row">
-              <div className="col-md-2">
+              <div className="col-md-2 col-sm-4 col-4">
                 <div className="logo-image">
                   <img src="/img/vbp-footer.png" alt="" />
                 </div>
               </div>
-              <div className="col-md-2">
+              <div className="col-md-2 col-sm-4 col-4">
                 <div className="logo-image">
                   <img src="/img/vbp-footer.png" alt="" />
                 </div>
