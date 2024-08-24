@@ -205,7 +205,6 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  height: 225;
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg2.jpg) center center no-repeat;
@@ -299,6 +298,7 @@ header .intro-text {
 }
 #about img {
   width: 520px;
+  height: 50%;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
