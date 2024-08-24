@@ -125,25 +125,25 @@
     {
       "img": "img/team/nick-craig.png",
       "name": "Nick Craig",
-      "job1": "President and Founder of"
+      "job1": "President and Founder of",
       "job2": "Core Leadership Institute"
     },
     {
       "img": "img/team/tran-tue-tri.webp",
       "name": "Tran Tue Tri",
-      "job1": "Senior Advisor | Brand Expert | Author"
+      "job1": "Senior Advisor | Brand Expert | Author",
       "job2": "CEO of Pharmacity"
     },
     {
       "img": "img/team/nguyen-thanh-giang.webp",
       "name": "Nguyen Thanh Giang",
-      "job1": "Brand Expert"
+      "job1": "Brand Expert",
       "job2": "CEO & Co-founder of Purpose.Ant"
     },
     {
       "img": "img/team/Alex-Haigh.webp",
       "name": "Alex Haigh",
-      "job1": "Managing Director"
+      "job1": "Managing Director",
       "job2": "Brand Finance"
     }
   ],
