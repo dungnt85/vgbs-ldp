@@ -125,22 +125,26 @@
     {
       "img": "img/team/nick-craig.png",
       "name": "Nick Craig",
-      "job": "President and Founder of CLI"
+      "job1": "President and Founder of"
+      "job2": "Core Leadership Institute"
     },
     {
       "img": "img/team/tran-tue-tri.webp",
       "name": "Tran Tue Tri",
-      "job": "Senior Advisor | Brand Expert | Author | CEO of Pharmacity"
+      "job1": "Senior Advisor | Brand Expert | Author"
+      "job2": "CEO of Pharmacity"
     },
     {
       "img": "img/team/nguyen-thanh-giang.webp",
       "name": "Nguyen Thanh Giang",
-      "job": "Brand Expert | CEO & Co-founder of Purpose.Ant"
+      "job1": "Brand Expert"
+      "job2": "CEO & Co-founder of Purpose.Ant"
     },
     {
       "img": "img/team/Alex-Haigh.webp",
       "name": "Alex Haigh",
-      "job": "Managing Director, Brand Finance"
+      "job1": "Managing Director"
+      "job2": "Brand Finance"
     }
   ],
   "Contact": {
