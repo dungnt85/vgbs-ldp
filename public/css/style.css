@@ -167,8 +167,8 @@ hr {
   font-family: "Epilogue", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #a5d0cc 0%, #0a4e9b 100%);
+  background-color: #0a4e9b;
+  background-image: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
