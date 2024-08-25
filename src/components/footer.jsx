@@ -12,12 +12,14 @@ export const Footer = (props) => {
                 <div className="logo-image">
                   <img src="/img/vbp-footer.png" alt="" />
                 </div>
-              </div>
-              <div className="col-md-2 col-sm-4 col-xs-4">
-                <div className="logo-image">
-                  <img src="/img/vbp-footer.png" alt="" />
-                </div>
-              </div>
+              </div> 
+              {
+              //<div className="col-md-2 col-sm-4 col-xs-4">
+                //<div className="logo-image">
+                  //<img src="/img/vbp-footer.png" alt="" />
+                //</div>
+              //</div>
+              }
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
