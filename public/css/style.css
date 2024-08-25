@@ -68,6 +68,11 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+.center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
 /* Navigation */
 #menu {
   padding: 15px;

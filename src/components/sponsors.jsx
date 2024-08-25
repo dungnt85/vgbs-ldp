@@ -7,10 +7,10 @@ export const Sponsors = (props) => {
         <div className="section-title text-center">
           <h2>Partners & Sponsors</h2>
         </div>
-        <div className="row">
+        <div className="row center">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className="col-md-4 center">
                   <div className="sponsors">
                     <div className="sponsors-image">
                       <img src={d.img} alt="" />
@@ -20,7 +20,7 @@ export const Sponsors = (props) => {
               ))
             : "loading"}
         </div>
-        <div className="row">
+        <div className="row center">
           <a href="#features" className="btn btn-custom btn-lg page-scroll">
             BECOME OUR PARTNER
           </a>
