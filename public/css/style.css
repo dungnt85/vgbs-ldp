@@ -215,6 +215,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
+  height: 670px;
   width: 100%;
   padding: 0;
   background: url(../img/header1.png) center center no-repeat;
