@@ -7,7 +7,7 @@ export const Media = (props) => {
         <div className="section-title text-center">
           <h2>Strategic Partners</h2>
         </div>
-        <div className="row center">
+        <div className="col-xs-12 col-md-12 row center">
           <img src="img/partners.png" alt="" />
         </div>
         <div className="row center">

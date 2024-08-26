@@ -481,9 +481,10 @@ a:focus,
 }
 .sponsors-image,
 .sponsors-image img {
-  display: block;
-  height: auto;
-  width: 100%;
+  width: auto;
+  height : auto;
+  max-height: 100%;
+  max-width: 100%;
   /*width: auto;*/
   /*border-radius: 50%;*/
 }
