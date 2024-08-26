@@ -252,7 +252,7 @@ a:focus,
 #header .intro-text {
   text-align: center;
 }
-#header .intro-text img {
+#header img {
   object-fit: contain;
   max-height: 100%;
   max-width: 70%;}
