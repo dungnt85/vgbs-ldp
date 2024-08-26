@@ -144,35 +144,44 @@
   ],
   "Sponsors": [
     {
-      "image": "img/partners/moit.png"
+      "image": "img/partners/moit.png",
+      "name": "MOIT"
     },
     {
-      "image": "img/partners/vma.png"
+      "image": "img/partners/vma.png",
+      "name": "Vietnam Marketing Association"
     }
   ],
   "Partners": [
     {
-      "image": "img/partners/avseg.png"
+      "image": "img/partners/avseg.png",
+      "name": "AVSE"
     },
     {
-      "image": "img/partners/brandfinance.png"
+      "image": "img/partners/brandfinance.png",
+      "name": "Brand Finance"
     },
     {
-      "image": "img/partners/talentnet.svg"
+      "image": "img/partners/talentnet.svg",
+      "name": "TalentNet"
     },
     {
-      "image": "img/partners/vietnammarcom.svg"
+      "image": "img/partners/vietnammarcom.svg",
+      "name": "Vietnam Marcom"
     }
   ],
   "Mediapartners": [
     {
-      "image": "img/partners/brands_vietnam.png"
+      "image": "img/partners/brands_vietnam.png",
+      "name": "Brands Vietnam"
     },
     {
-      "image": "img/partners/vietcetera.png"
+      "image": "img/partners/vietcetera.png",
+      "name": "Vietcetera"
     },
     {
-      "image": "img/partners/theleader.svg"
+      "image": "img/partners/theleader.svg",
+      "name": "The Leader"
     }
   ]
 }

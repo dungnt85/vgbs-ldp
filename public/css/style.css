@@ -446,11 +446,11 @@ header .intro-text {
 }
 
 /* Sponsors Section */
-#sponsors {
+#sponsors, #partners, #mediapartners {
   padding: 100px 0;
   background: #f6f6f6;
 }
-#sponsors i {
+#sponsors, #partners, #mediapartners i {
   color: #e6e6e6;
   font-size: 32px;
   margin-bottom: 20px;
