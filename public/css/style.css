@@ -217,8 +217,7 @@ a:focus,
   display: table;
   height: 480px;
   width: 100%;
-  padding-top: 13%;
-  padding-bottom: 12%;
+  padding-top: 15%;
   background: url(../img/header1.png) center bottom no-repeat;
   background-color: #fff;
   align-content: center;
