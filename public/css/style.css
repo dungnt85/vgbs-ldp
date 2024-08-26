@@ -214,14 +214,15 @@ a:focus,
 }
 /* Header Section */
 .intro {
-  display: block;
+  display: table;
   height: 480px;
   width: 100%;
   padding-top: 20%;
   padding-bottom: 20%;
   background: url(../img/header1.png) center bottom no-repeat;
   background-color: #fff;
-  text-align: center;
+  align-content: center;
+  vertical-align: middle;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -233,7 +234,6 @@ a:focus,
 }
 */
 #header .intro img {
-  position: absolute;
   object-fit: contain;
   max-height: 100%;
   max-width: 60%;}
