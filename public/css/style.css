@@ -217,7 +217,7 @@ a:focus,
   display: table;
   height: 480px;
   width: 100%;
-  padding-top: 12%;
+  padding-top: 13%;
   padding-bottom: 12%;
   background: url(../img/header1.png) center bottom no-repeat;
   background-color: #fff;
@@ -236,6 +236,8 @@ a:focus,
 #header .intro img {
   object-fit: contain;
   max-height: 360px;
+  display: block;
+  margin: auto;
 }
 /* Features Section */
 #features {
