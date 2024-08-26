@@ -248,10 +248,13 @@ a:focus,
   margin: 0 auto;
   margin-bottom: 60px;
 }
-header .intro-text {
+#header .intro-text {
   padding-top: 150px;
   padding-bottom: 50px;
   text-align: center;
+}
+#header .intro-text img {
+  height: 250px;
 }
 /* Features Section */
 #features {
