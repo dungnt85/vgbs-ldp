@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "",
-    "paragraph": ""
+    "paragraph": "HO CHI MINH CITY - November 2024"
   },
   "About": {
     "paragraph": "The first-ever Vietnam Global Brand Summit™ 2024 is set to take place in Ho Chi Minh City, focusing on the imperative themes of sustainability with the pioneering Brand-Led Sustainability™ approach. The summit features an impressive lineup of policymakers, global and Vietnamese brand innovators, international industry leaders, sustainability experts, and influencers. It promises to be a groundbreaking series of events, offering deep insights into brand-led sustainability and its impact on consumer behavior and business growth globally.",
@@ -140,6 +140,39 @@
       "title": "AWARD",
       "subtitle":"Kotler Awards",
       "text": "Kotler Awards are developed to honour true excellence in the field of marketing and business management around the world. Kotler Award recognizes top marketing, communications, and business management professionals."
+    }
+  ],
+  "Sponsors": [
+    {
+      "image": "img/partners/moit.png"
+    },
+    {
+      "image": "img/partners/vma.png"
+    }
+  ],
+  "Partners": [
+    {
+      "image": "img/partners/avseg.png"
+    },
+    {
+      "image": "img/partners/brandfinance.png"
+    },
+    {
+      "image": "img/partners/talentnet.svg"
+    },
+    {
+      "image": "img/partners/vietnammarcom.svg"
+    }
+  ],
+  "Mediapartners": [
+    {
+      "image": "img/partners/brands_vietnam.png"
+    },
+    {
+      "image": "img/partners/vietcetera.png"
+    },
+    {
+      "image": "img/partners/theleader.svg"
     }
   ]
 }

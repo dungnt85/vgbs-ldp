@@ -5,14 +5,15 @@ import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
-import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/team";
 import { Sponsors } from "./components/sponsors";
-import { Contact } from "./components/contact";
+import { Partners } from "./components/partners";
+import { Mediapartners } from "./components/media";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { Mediapartners } from "./components/media";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -33,7 +34,9 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
       <Team data={landingPageData.Team} />
-      <Sponsors data={landingPageData.Testimonials} />
+      <Sponsors data={landingPageData.Sponsors} />
+      <Partners data={landingPageData.Partners} />
+      <Mediapartners data={landingPageData.Mediapartners} />
       <Footer />
     </div>
   );

@@ -1,11 +1,11 @@
 import React from "react";
 
-export const Sponsors = (props) => {
+export const Mediapartners = (props) => {
   return (
-    <div id="sponsors">
+    <div id="mediapartners">
       <div className="container">
         <div className="section-title text-center">
-          <h2>Sponsors</h2>
+          <h3>Media Partners</h3>
         </div>
         <div className="row center">
           {props.data
@@ -19,6 +19,11 @@ export const Sponsors = (props) => {
                 </div>
               ))
             : "loading"}
+        </div>
+        <div className="row center">
+          <a href="#features" className="btn btn-custom btn-lg page-scroll">
+            BECOME OUR PARTNER
+          </a>
         </div>
       </div>
     </div>

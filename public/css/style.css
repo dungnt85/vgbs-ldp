@@ -461,15 +461,14 @@ header .intro-text {
   text-align: center;
 }
 .sponsors-image {
-  float: inherit;
-  margin-right: 15px;
+  margin: 15px;
 }
 .sponsors-image,
 .sponsors-image img {
   display: block;
   height: 64px;
   width: auto;
-  border-radius: 50%;
+  /*border-radius: 50%;*/
 }
 /* Team Section */
 #team {
