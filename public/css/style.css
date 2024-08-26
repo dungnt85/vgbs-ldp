@@ -453,7 +453,7 @@ header .intro-text {
 #sponsors, #partners, #mediapartners i {
   color: #e6e6e6;
   font-size: 32px;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 .sponsors {
   position: relative;
