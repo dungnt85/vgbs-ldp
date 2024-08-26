@@ -449,7 +449,7 @@ header .intro-text {
 #sponsors, 
 #partners, 
 #mediapartners {
-  padding: 100px 0;
+  padding: 100px 0 0 0;
   background: #f6f6f6;
 }
 #sponsors, 
@@ -465,7 +465,7 @@ header .intro-text {
   text-align: center;
 }
 .sponsors-image {
-  margin: 15px;
+  margin: 0;
 }
 .sponsors-image,
 .sponsors-image img {
