@@ -217,7 +217,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/header.png) center center no-repeat;
+  background: url(../img/header2.png) center center no-repeat, linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
   background-color: #0a4e9b;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -273,7 +273,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 0;
-  background: url(../img/bg.png) center center repeat-y;
+  background: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%);
 }
 #about h3 {
   font-size: 22px;
