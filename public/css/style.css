@@ -75,7 +75,7 @@ hr {
 }
 /* Navigation */
 #menu {
-  padding: 15px;
+  /*padding: 15px;*/
   transition: all 0.8s;
 }
 #menu.navbar-default {
@@ -89,6 +89,12 @@ hr {
   font-weight: 700;
   color: #0a4e9b;
   text-transform: uppercase;
+}
+#menu a.navbar-brand img {
+  max-height: 40px;
+}
+#menu.navbar-default .navbar-nav {
+  padding: 15px;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Bricolage Grotesque", sans-serif;
