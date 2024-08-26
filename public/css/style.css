@@ -467,7 +467,7 @@ header .intro-text {
 .sponsors-image img {
   display: block;
   height: 64px;
-  width: auto;
+  /*width: auto;*/
   /*border-radius: 50%;*/
 }
 /* Team Section */
