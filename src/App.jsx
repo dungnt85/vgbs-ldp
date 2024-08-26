@@ -8,7 +8,7 @@ import { Gallery } from "./components/gallery";
 import { Team } from "./components/team";
 import { Sponsors } from "./components/sponsors";
 import { Partners } from "./components/partners";
-import { Mediapartners } from "./components/media";
+import { Media } from "./components/media";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -36,7 +36,7 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Sponsors data={landingPageData.Sponsors} />
       <Partners data={landingPageData.Partners} />
-      <Mediapartners data={landingPageData.Mediapartners} />
+      <Media data={landingPageData.Mediapartners} />
       <Footer />
     </div>
   );
