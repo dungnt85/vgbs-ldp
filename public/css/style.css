@@ -330,7 +330,7 @@ a:focus,
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: url(../img/header.png) center bottom repeat-x;
+  background: url(../img/header.png) center center no-repeat;
   color: #fff;
 }
 #services .service-desc {
