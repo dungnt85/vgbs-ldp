@@ -20,6 +20,11 @@ export const Footer = (props) => {
             <div className="contact-item">
               <p>
                 <span>
+                  <i className="fa fa-globe-o"></i> https://www.vietnambrandpurpose.com
+                </span>
+              </p>
+              <p>
+                <span>
                   <i className="fa fa-envelope-o"></i> info@vietnambrandpurpose.com
                 </span>
               </p>
