@@ -218,7 +218,7 @@ a:focus,
   height: 480px;
   width: 100%;
   padding: 0;
-  background: url(../img/header1.png) center bottom no-repeat;
+  background: url(../img/header1.png) center bottom repeat-x;
   background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -319,13 +319,12 @@ a:focus,
 }
 #about p {
   line-height: 24px;
-  margin: 40px 0 0 0;
+  margin: 40px 0;
   vertical-align: middle;
 }
 .about-bg {
   /*background: #a5d0cc;*/
   padding-top: 50px;
-  padding-bottom: 50px;
   color: #fff;
   text-align: right;
 }
@@ -453,7 +452,7 @@ a:focus,
 }
 /* Team Section */
 #team {
-  padding: 100px 0;
+  padding: 100px 0 0 0;
 }
 #team h4 {
   margin: 5px 0;
