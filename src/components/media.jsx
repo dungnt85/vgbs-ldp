@@ -10,7 +10,7 @@ export const Media = (props) => {
         <div className="row center">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 center">
+                <div key={`${d.name}-${i}`} className="col-md-4 center">
                   <div className="sponsors">
                     <div className="sponsors-image">
                       <img src={d.img} alt="" />
