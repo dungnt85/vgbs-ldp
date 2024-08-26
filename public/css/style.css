@@ -472,6 +472,7 @@ header .intro-text {
   /*display: block;*/
   height: 64px;
   width: auto;
+  max-width: 180px;
   /*width: auto;*/
   /*border-radius: 50%;*/
 }
