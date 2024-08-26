@@ -321,6 +321,9 @@ header .intro-text {
 }
 .about-bg {
   background: #a5d0cc;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #fff;
 }
 /* Services Section */
 #services {
