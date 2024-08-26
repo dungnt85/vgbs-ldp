@@ -11,7 +11,7 @@ export const Media = (props) => {
           <img src="img/partners.png" alt="" />
         </div>
         <div className="row center">
-          <a href="#features" className="btn btn-custom btn-lg page-scroll">
+          <a href="mailo:anh.lq@purposeant.asia?subject=Partnership" className="btn btn-custom btn-lg page-scroll">
             BECOME OUR PARTNER
           </a>
         </div>
