@@ -470,7 +470,7 @@ header .intro-text {
 .sponsors-image,
 .sponsors-image img {
   /*display: block;*/
-  max-height: 96px;
+  height: 64px;
   width: auto;
   /*width: auto;*/
   /*border-radius: 50%;*/
