@@ -70,7 +70,6 @@ hr {
 }
 .center {
   margin: auto;
-  width: 50%;
   text-align: center;
 }
 /* Navigation */
@@ -91,7 +90,7 @@ hr {
   text-transform: uppercase;
 }
 #menu a.navbar-brand img {
-  max-height: 40px;
+  max-height: 48px;
 }
 #menu.navbar-default .navbar-nav {
   padding: 15px;
