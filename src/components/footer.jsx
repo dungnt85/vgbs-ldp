@@ -20,7 +20,7 @@ export const Footer = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-globe"></i> https://www.vietnambrandpurpose.com
+                  <i className="fa fa-globe"></i> www.vietnambrandpurpose.com
                 </span>
               </p>
               <p>
