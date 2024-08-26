@@ -8,7 +8,7 @@ export const Media = (props) => {
           <h2>Strategic Partners</h2>
         </div>
         <div className="row center">
-          <img src="./img/partners.png" alt="" />
+          <img src="img/partners.png" alt="" />
         </div>
         <div className="row center">
           <a href="#features" className="btn btn-custom btn-lg page-scroll">
