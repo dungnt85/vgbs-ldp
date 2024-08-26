@@ -6,7 +6,7 @@ export const About = (props) => {
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6 about-bg">
-            <h2>Vietnam Global Brand Summit™ 2024: Brand-Led Sustainability™</h2>
+            <h2>VGBS 2024: Brand-Led Sustainability™</h2>
             <h3>From social responsibility to Transforming sustainable consumption habits</h3>
           </div>
           <div className="col-xs-12 col-md-6">
