@@ -316,7 +316,7 @@ a:focus,
 }
 #about p {
   line-height: 24px;
-  margin: 50px 0 0 0;
+  margin: 40px 0 0 0;
   vertical-align: middle;
 }
 .about-bg {
@@ -635,7 +635,7 @@ label {
 #footer .logo-image,
 .logo-image img {
   display: block;
-  height: 64px;
+  height: 72px;
   width: auto;
   padding: 0 20px 20px 0;
 }
