@@ -450,7 +450,7 @@ header .intro-text {
 #partners, 
 #mediapartners {
   padding: 100px 0 0 0;
-  background: #f6f6f6;
+  background: #fff;
 }
 #sponsors, 
 #partners, 
@@ -471,8 +471,6 @@ header .intro-text {
   display: block;
   height: auto;
   width: auto;
-  max-height: 64px;
-  max-width: 180px;
   /*width: auto;*/
   /*border-radius: 50%;*/
 }
