@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Mediapartners = (props) => {
+export const Media = (props) => {
   return (
     <div id="mediapartners">
       <div className="container">
