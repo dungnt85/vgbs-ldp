@@ -5,20 +5,10 @@ export const Media = (props) => {
     <div id="mediapartners">
       <div className="container">
         <div className="section-title text-center">
-          <h3>Media Partners</h3>
+          <h2>Strategic Partners</h2>
         </div>
         <div className="row center">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4 center">
-                  <div className="sponsors">
-                    <div className="sponsors-image">
-                      <img src={d.img} alt="" />
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
+          <img src="./img/partners.png" alt="" />
         </div>
         <div className="row center">
           <a href="#features" className="btn btn-custom btn-lg page-scroll">

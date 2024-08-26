@@ -6,8 +6,6 @@ import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
 import { Team } from "./components/team";
-import { Sponsors } from "./components/sponsors";
-import { Partners } from "./components/partners";
 import { Media } from "./components/media";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
@@ -34,9 +32,7 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
       <Team data={landingPageData.Team} />
-      <Sponsors data={landingPageData.Sponsors} />
-      <Partners data={landingPageData.Partners} />
-      <Media data={landingPageData.Mediapartners} />
+      <Media data="" />
       <Footer />
     </div>
   );
