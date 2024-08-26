@@ -221,6 +221,7 @@ a:focus,
   padding-bottom: 20%;
   background: url(../img/header1.png) center bottom no-repeat;
   background-color: #fff;
+  text-align: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
