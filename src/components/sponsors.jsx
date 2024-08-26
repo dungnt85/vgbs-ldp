@@ -5,12 +5,13 @@ export const Sponsors = (props) => {
     <div id="sponsors">
       <div className="container">
         <div className="section-title text-center">
-          <h2>Sponsors</h2>
+          <h2>Sponsors & Partners</h2>
+          <h3>Sponsors</h3>
         </div>
         <div className="row center">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4 center">
+                <div key={`${d.name}-${i}`} className="col-md-3 center">
                   <div className="sponsors">
                     <div className="sponsors-image">
                       <img src={d.img} alt="" />

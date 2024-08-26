@@ -446,11 +446,15 @@ header .intro-text {
 }
 
 /* Sponsors Section */
-#sponsors, #partners, #mediapartners {
+#sponsors, 
+#partners, 
+#mediapartners {
   padding: 100px 0;
   background: #f6f6f6;
 }
-#sponsors, #partners, #mediapartners i {
+#sponsors, 
+#partners, 
+#mediapartners i {
   color: #e6e6e6;
   font-size: 32px;
   padding-bottom: 20px;
@@ -465,8 +469,9 @@ header .intro-text {
 }
 .sponsors-image,
 .sponsors-image img {
-  display: block;
-  height: 64px;
+  /*display: block;*/
+  max-height: 96px;
+  width: auto;
   /*width: auto;*/
   /*border-radius: 50%;*/
 }
