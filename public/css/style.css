@@ -247,7 +247,7 @@ a:focus,
   margin-bottom: 60px;
 }
 #header .intro-text {
-  padding-top: 100px;
+  padding-top: 150px;
   padding-bottom: 100px;
   text-align: center;
 }
@@ -481,8 +481,7 @@ a:focus,
 }
 .sponsors-image,
 .sponsors-image img {
-  width: auto;
-  height : auto;
+  object-fit: contain;
   max-height: 100%;
   max-width: 100%;
   /*width: auto;*/
