@@ -8,7 +8,7 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <img src="img/intro.png" alt="" />
+                <img src="img/intro-blue.png" alt="" />
               </div>
             </div>
           </div>
