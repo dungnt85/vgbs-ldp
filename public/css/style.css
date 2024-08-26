@@ -250,13 +250,14 @@ a:focus,
   margin-bottom: 60px;
 }
 #header .intro-text {
-  padding-top: 150px;
-  padding-bottom: 100px;
+  padding-top: 20%;
+  padding-bottom: 20%;
   text-align: center;
 }
 #header .intro-text img {
-  height: 50%;
-}
+  object-fit: contain;
+  max-height: 100%;
+  max-width: 50%;}
 /* Features Section */
 #features {
   background: #f6f6f6;
