@@ -214,7 +214,7 @@ a:focus,
 }
 /* Header Section */
 .intro {
-  display: table;
+  display: block;
   height: 480px;
   width: 100%;
   padding-top: 20%;
@@ -233,6 +233,7 @@ a:focus,
 }
 */
 #header .intro img {
+  position: absolute;
   max-height: 100%;
   max-width: 60%;}
 /* Features Section */
