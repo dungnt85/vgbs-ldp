@@ -303,6 +303,9 @@ a:focus,
   right: 0;
 }
 */
+#about .about-text {
+  padding-bottom: 60px;
+}
 #about .about-text li {
   margin-bottom: 6px;
   margin-left: 6px;
@@ -327,7 +330,7 @@ a:focus,
 }
 #about p {
   line-height: 24px;
-  margin: 40px 0 150px 0;
+  margin: 40px 0 40px 0;
   vertical-align: middle;
 }
 .about-bg {
