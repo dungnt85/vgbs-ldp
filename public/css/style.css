@@ -169,7 +169,12 @@ hr {
   left: 50%;
 }
 .section-title p {
+  position: absolute;
   font-size: 18px;
+}
+.btn-image {
+  margin: 20px 0 100px 0;
+  max-height: 64px;
 }
 .btn-custom {
   font-family: "Epilogue", sans-serif;

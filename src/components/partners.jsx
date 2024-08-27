@@ -11,8 +11,11 @@ export const Partners = (props) => {
           <img src="img/partners.png" alt="" />
         </div>
         <div className="row center">
-          <a href="mailto:anh.lq@purposeant.asia?subject=Partnership of Vietnam Global Brand Summit (TM)" className="btn btn-custom btn-lg page-scroll">
+          {/*<a href="mailto:anh.lq@purposeant.asia?subject=Partnership of Vietnam Global Brand Summit (TM)" className="btn btn-custom btn-lg page-scroll">
             BECOME OUR PARTNER
+          </a>*/}
+          <a href="mailto:anh.lq@purposeant.asia?subject=Partnership of Vietnam Global Brand Summit (TM)">
+            <img className="btn-image" src="img/button.png" alt="" />
           </a>
         </div>
       </div>
