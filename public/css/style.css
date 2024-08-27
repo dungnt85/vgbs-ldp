@@ -235,7 +235,7 @@ a:focus,
 */
 #header .intro img {
   object-fit: contain;
-  max-height: 320px;
+  max-height: 280px;
   display: block;
   margin: auto;
 }
