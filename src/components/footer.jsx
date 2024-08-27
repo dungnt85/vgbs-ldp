@@ -12,7 +12,9 @@ export const Footer = (props) => {
             </div>
             <div className="row">
               <div className="logo-image">
-                <img src="/img/vbp-footer.png" alt="" />
+                <a href="https://www.vietnambrandpurpose.com">
+                  <img src="/img/vbp-footer.png" alt="" />
+                </a>
               </div> 
             </div>
           </div>
