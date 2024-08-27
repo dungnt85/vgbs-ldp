@@ -250,7 +250,7 @@ a:focus,
 #events {
   background: url(../img/eventbg.png) center bottom no-repeat, #4495d1;
   background-size: contain;
-  padding: 100px 0;
+  padding: 100px 0 60px 0;
   color: #fff;
 }
 #events i.fa {
@@ -277,6 +277,7 @@ a:focus,
 #events p {
   color: rgba(255, 255, 255, 0.75);
   text-align: left;
+  padding-bottom: 40px;
 }
 /* About Section */
 #about {
