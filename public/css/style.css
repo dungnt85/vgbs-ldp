@@ -301,11 +301,11 @@ a:focus,
 }
 #about p {
   line-height: 24px;
-  margin: 40px 0;
+  margin: 40px 0 150px 0;
   vertical-align: middle;
 }
 .about-bg {
-  /*background: #a5d0cc;*/
+  background: url(../img/header1.png) left bottom repeat-x;
   padding-top: 50px;
   color: #fff;
   text-align: right;
