@@ -5,20 +5,15 @@ export const Partners = (props) => {
     <div id="partners">
       <div className="container">
         <div className="section-title text-center">
-          <h3>Partners</h3>
+          <h2>Strategic Partners</h2>
+        </div>
+        <div className="col-xs-12 col-md-12 row center sponsors-image">
+          <img src="img/partners.png" alt="" />
         </div>
         <div className="row center">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4 center">
-                  <div className="sponsors">
-                    <div className="sponsors-image">
-                      <img src={d.img} alt="" />
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
+          <a href="mailto:anh.lq@purposeant.asia?subject=Partnership of Vietnam Global Brand Summit (TM)" className="btn btn-custom btn-lg page-scroll">
+            BECOME OUR PARTNER
+          </a>
         </div>
       </div>
     </div>

@@ -1,8 +1,8 @@
 import React from "react";
 
-export const Features = (props) => {
+export const Activities = (props) => {
   return (
-    <div id="features" className="text-center">
+    <div id="activities" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
           <h2>Program</h2>
