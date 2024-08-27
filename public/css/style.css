@@ -248,7 +248,7 @@ a:focus,
 }
 /* events Section */
 #events {
-  background: url(../img/eventbg.png) center bottom no-repeat;
+  background: url(../img/eventbg.png) center bottom no-repeat, #4495d1;
   padding: 100px 0;
 }
 #events i.fa {

@@ -12,7 +12,7 @@ export const Footer = (props) => {
             </div>
             <div className="row">
               <div className="logo-image">
-                <a href="https://www.vietnambrandpurpose.com">
+                <a href="https://vietnambrandpurpose.com/vi" target="_blank">
                   <img src="/img/vbp-footer.png" alt="" />
                 </a>
               </div> 
@@ -34,12 +34,12 @@ export const Footer = (props) => {
                 <div className="social">
                 <ul>
                   <li>
-                    <a href="https://www.facebook.com/vietnambrandpurpose">
+                    <a href="https://www.facebook.com/vietnambrandpurpose" target="_blank">
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/company/vietnam-brand-purpose/">
+                    <a href="https://www.linkedin.com/company/vietnam-brand-purpose/" target="_blank">
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
