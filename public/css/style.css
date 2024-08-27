@@ -310,11 +310,6 @@ a:focus,
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
-#about p {
-  line-height: 24px;
-  margin: 0 0 10px 0;
-  vertical-align: middle;
-}
 .about-bg {
   color: #fff;
   text-align: right;
