@@ -12,9 +12,9 @@ export const Events = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                   {" "}
-                  <i className={d.icon}></i>
+                  <img src={d.img} alt="" />
                   <h3>{d.title}</h3>
-                  <p>{d.subtitle}</p>
+                  <h3>{d.subtitle}</h3>
                   <p>{d.text}</p>
                 </div>
               ))
