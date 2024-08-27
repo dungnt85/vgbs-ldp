@@ -258,7 +258,8 @@ a:focus,
 }
 /* About Section */
 #about {
-  background: #fff;
+  /*background: #fff;*/
+  background: url(../img/looping.png) left bottom repeat-x;
 }
 #about h3 {
   font-size: 22px;
@@ -305,7 +306,6 @@ a:focus,
   vertical-align: middle;
 }
 .about-bg {
-  background: url(../img/header1.png) left bottom repeat-x;
   padding-top: 50px;
   color: #fff;
   text-align: right;
@@ -340,6 +340,7 @@ a:focus,
   object-fit: contain;
   max-width: 50%;
   max-height: 50%;
+  margin-right: 10px;
 }
 #highlights i.fa {
   font-size: 42px;
