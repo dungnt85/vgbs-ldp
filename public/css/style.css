@@ -173,8 +173,8 @@ hr {
   font-size: 18px;
 }
 .btn-image {
-  margin: 20px 0 100px 0;
-  max-height: 64px;
+  margin: 40px 0 100px 0;
+  max-height: 80px;
 }
 .btn-custom {
   font-family: "Epilogue", sans-serif;
