@@ -12,7 +12,7 @@ export const Highlights = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   {" "}
-                  <i className={d.icon}></i>
+                  <img src={d.img} alt="" />
                   <div className="highlights-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>

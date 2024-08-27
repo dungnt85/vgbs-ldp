@@ -322,6 +322,7 @@ a:focus,
 #highlights h2 {
   color: #fff;
 }
+/*
 #highlights .section-title h2::after {
   position: absolute;
   content: "";
@@ -331,6 +332,14 @@ a:focus,
   bottom: 0;
   margin-left: -30px;
   left: 50%;
+}
+*/
+#highlights img {
+  display: block;
+  float: left;
+  object-fit: contain;
+  max-width: 50%;
+  max-height: 50%;
 }
 #highlights i.fa {
   font-size: 42px;
