@@ -6,9 +6,6 @@ export const Featured = (props) => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Featured Speakers</h2>
-          <p>
-            We will continue updating
-          </p>
         </div>
         <div id="row">
           {props.data

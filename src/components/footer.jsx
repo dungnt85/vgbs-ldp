@@ -43,11 +43,6 @@ export const Footer = (props) => {
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
                 </ul>
               </div>
               </p>
