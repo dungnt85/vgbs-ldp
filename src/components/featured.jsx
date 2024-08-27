@@ -24,6 +24,9 @@ export const Featured = (props) => {
               ))
             : "loading"}
         </div>
+        <div className="col-md-8 col-md-offset-2 section-title">
+          <h3>Stay tuned for updates on the speakers at Vietnam Global Brand Summit™ 2024 </h3>
+        </div>
       </div>
     </div>
   );
