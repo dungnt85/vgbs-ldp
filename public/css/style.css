@@ -249,7 +249,7 @@ a:focus,
 /* events Section */
 #events {
   background: url(../img/eventbg.png) center bottom no-repeat, #4495d1;
-  background-size: auto;
+  background-size: contain;
   padding: 100px 0;
   color: #fff;
 }
@@ -264,6 +264,9 @@ a:focus,
   border-radius: 50%;
   background: #0a4e9b;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+#events h3 {
+  color: #fff;
 }
 #events h3 {
   font-weight: 500;
