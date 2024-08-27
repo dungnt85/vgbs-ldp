@@ -246,12 +246,12 @@ a:focus,
   display: block;
   margin: auto;
 }
-/* activities Section */
-#activities {
+/* events Section */
+#events {
   background: #f6f6f6;
   padding: 100px 0;
 }
-#activities i.fa {
+#events i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;

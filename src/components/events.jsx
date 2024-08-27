@@ -1,11 +1,11 @@
 import React from "react";
 
-export const Activities = (props) => {
+export const Events = (props) => {
   return (
-    <div id="activities" className="text-center">
+    <div id="events" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>Program</h2>
+          <h2>Key Events</h2>
         </div>
         <div className="row">
           {props.data

@@ -27,7 +27,7 @@ export const Footer = (props) => {
               </p>
               <p>
                 <span>
-                  <i className="fa fa-envelope-o"></i> info@vietnambrandpurpose.com
+                  <i className="fa fa-envelope-o"></i> anh.lq@purposeant.asia
                 </span>
               </p>
               <p>
