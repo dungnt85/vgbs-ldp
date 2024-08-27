@@ -459,7 +459,7 @@ a:focus,
 }
 #featured .thumbnail .caption p {
   padding: 0;
-  line-height: 20px;
+  line-height: 8px;
 }
 /* Contact Section */
 #contact {
