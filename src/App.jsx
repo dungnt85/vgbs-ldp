@@ -3,7 +3,7 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { Events} from "./components/events";
 import { About } from "./components/about";
-import { Highlights, Services } from "./components/highlights";
+import { Highlights } from "./components/highlights";
 import { Featured } from "./components/featured";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
@@ -29,7 +29,7 @@ const App = () => {
       <Highlights data={landingPageData.Services} />
       <Events data={landingPageData.Features} />
       <Featured data={landingPageData.Team} />
-      <Partners data="" />
+      <Partners />
       <Footer />
     </div>
   );
