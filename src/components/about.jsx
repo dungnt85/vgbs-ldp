@@ -7,7 +7,7 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6 about-bg">
             <h2>{props.data ? props.data.title1 : "loading..."}</h2>
-            <h2>{props.data ? props.data.title2 : "loading..."}</h2>
+            <h3>{props.data ? props.data.title2 : "loading..."}</h3>
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
