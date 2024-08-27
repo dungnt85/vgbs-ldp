@@ -283,6 +283,7 @@ a:focus,
 #about {
   /*background: #fff;*/
   background: url(../img/looping.png) left bottom repeat-x;
+  padding: 80px 0 100px 0;
 }
 #about h3 {
   font-size: 22px;
@@ -301,10 +302,6 @@ a:focus,
   bottom: 0;
   right: 0;
 }
-#about .about-text {
-  padding-top: 40px;
-  padding-bottom: 100px;
-}
 #about img {
   width: 520px;
   height: 50%;
@@ -315,11 +312,10 @@ a:focus,
 }
 #about p {
   line-height: 24px;
-  margin: 10px 0;
+  margin: 0 0 10px 0;
   vertical-align: middle;
 }
 .about-bg {
-  padding-top: 50px;
   color: #fff;
   text-align: right;
 }
