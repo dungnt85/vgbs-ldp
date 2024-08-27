@@ -89,28 +89,28 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "WORKSHOP",
-      "subtitle":"Transform Your Impact - Explore Your Path to Purpose-Driven Leadership",
-      "text": "The Purpose to Impact™ Program is a transformative experience that helps leaders and their teams to uncover the unique gift they bring to the world—their purpose."
-    },
-    {
       "icon": "fa fa-bullhorn",
       "title": "FORUM",
       "subtitle":"Brand-led Sustainability™ Forum",
-      "text": "An opportunity to meet, learn and collect valuable and actionable insights from Brand-led Sustainability™ game-changers, industry leaders, and forward-thinking practitioners across various sectors."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "EXHIBITION",
-      "subtitle":"Feedback Loops International Art Exhibition",
-      "text": "The exhibition gathers 40 artists from various countries around the world as well as collectives and brands collaborating to explore different sustainable models, creating a space where art, technology, and society intersect."
+      "text": "Meet, learn and collect valuable and actionable insights from Brand-led Sustainability™ game-changers, industry leaders, and forward-thinking practitioners across various sectors"
     },
     {
       "icon": "fa fa-magic",
       "title": "AWARD",
       "subtitle":"Kotler Awards",
-      "text": "Kotler Awards are developed to honour true excellence in the field of marketing and business management around the world. Kotler Award recognizes top marketing, communications, and business management professionals."
+      "text": "Global recognition from legendary marketing mastermind for impactful marketers. This award also serves as a platform to showcase new start-ups and unique innovations which have set new standards for the industry."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "EXHIBITION",
+      "subtitle":"Feedback Loops International Art Exhibition",
+      "text": "The exhibition gathers 40 artists from various countries around the world as well as collectives and brands collaborating to explore different sustainable models, creating a space where art, technology, and society intersect. "
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "LEADERSHIP COURSE",
+      "subtitle":"THE PURPOSE TO IMPACT™ - Transform Your Impact",
+      "text": "The Purpose to Impact™ Program is a transformative experience that helps leaders and their teams to uncover the unique gift they bring to the world—their purpose."
     }
   ],
   "Sponsors": [
