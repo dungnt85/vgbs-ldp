@@ -446,15 +446,15 @@ a:focus,
   border: 1px solid #0a4e9b;
   /*border-image: linear-gradient(to right, #0a4e9b 0%, #a5d0cc 100%) 1;*/
   border-radius: 50%;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+  /*-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  /*filter: grayscale(100%);*/
 }
 #featured .thumbnail {
   background: transparent;
   border: 0;
 }
 #featured .thumbnail .caption {
-  padding: 10px 0 0;
+  padding: 10px 0 0 0;
   color: #888;
 }
 /* Contact Section */
