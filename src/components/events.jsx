@@ -10,11 +10,13 @@ export const Events = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-6 event-item">
+                <div key={`${d.title}-${i}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                   {" "}
                   <img src={d.img} alt="" className="event-img" />
-                  <h3>{d.subtitle}</h3>
-                  <p>{d.text}</p>
+                  <div className="event-item">
+                    <h3>{d.subtitle}</h3>
+                    <p>{d.text}</p>
+                  </div>
                 </div>
               ))
             : "Loading..."}

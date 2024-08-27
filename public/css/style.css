@@ -248,7 +248,7 @@ a:focus,
 }
 /* events Section */
 #events {
-  background: url(../img/eventbg.png) center bottom no-repeat, #4495d1;
+  background: url(../img/eventbg.png) center bottom no-repeat;
   background-size: auto;
   padding: 100px 0;
   color: #fff;
@@ -285,6 +285,10 @@ a:focus,
   max-width: 75%;
   max-height: 75%;
   margin-right: 10px;
+}
+#event .event-item {
+  background-color: #4495d1;
+  border-radius: 0 8px 0 8px;
 }
 /* About Section */
 #about {
