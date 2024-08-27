@@ -5,6 +5,7 @@ import { Events} from "./components/events";
 import { About } from "./components/about";
 import { Highlights } from "./components/highlights";
 import { Featured } from "./components/featured";
+import { Partners } from "./components/partners";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
