@@ -265,7 +265,7 @@ a:focus,
   background: #0a4e9b;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
-#events h3 {
+#events h2 {
   color: #fff;
 }
 #events h3 {
@@ -322,7 +322,7 @@ a:focus,
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 .about-bg {
-  color: #fff;
+  color: #0a4e9b;
   text-align: right;
 }
 /* highlights Section */
