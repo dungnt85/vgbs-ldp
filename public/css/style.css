@@ -292,6 +292,7 @@ a:focus,
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
+/*
 #about h2::after {
   position: absolute;
   content: "";
@@ -301,6 +302,7 @@ a:focus,
   bottom: 0;
   right: 0;
 }
+*/
 #about .about-text li {
   margin-bottom: 6px;
   margin-left: 6px;
