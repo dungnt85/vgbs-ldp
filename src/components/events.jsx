@@ -4,7 +4,7 @@ export const Events = (props) => {
   return (
     <div id="events" className="text-center">
       <div className="container">
-        <div className="col-md-10 col-md-offset-1 section-title">
+        <div className="section-title">
           <h2>Key Events</h2>
         </div>
         <div className="col-md-10 col-md-offset-1 row">

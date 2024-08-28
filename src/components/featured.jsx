@@ -4,7 +4,7 @@ export const Featured = (props) => {
   return (
     <div id="featured" className="text-center">
       <div className="container">
-        <div className="col-md-8 col-md-offset-2 section-title">
+        <div className="section-title">
           <h2>Featured Speakers</h2>
         </div>
         <div id="row">
