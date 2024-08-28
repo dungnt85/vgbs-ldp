@@ -249,6 +249,7 @@ a:focus,
 @media screen and (max-width: 400px) {
   #header .intro img {
     max-height: 180px;
+    margin-top: 80px;
   }
 }
 /* events Section */
