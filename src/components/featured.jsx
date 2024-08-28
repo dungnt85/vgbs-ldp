@@ -18,6 +18,7 @@ export const Featured = (props) => {
                       <h4>{d.name}</h4>
                       <p>{d.job1}</p>
                       <p>{d.job2}</p>
+                      <p>{d.job3}</p>
                     </div>
                   </div>
                 </div>
