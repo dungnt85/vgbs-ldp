@@ -288,7 +288,8 @@ a:focus,
 }
 #events .event-item {
   background-color: #4495d1;
-  border-radius: 0 8px 0 8px;
+  border-radius: 0 16px 0 16px;
+  text-align: left;
 }
 /* About Section */
 #about {
