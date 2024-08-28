@@ -281,8 +281,7 @@ a:focus,
 }
 #events img {
   object-fit: contain;
-  max-width: 50%;
-  max-height: 50%;
+  height: 32px;
 }
 #events .event-item {
   background-color: #4495d1;
