@@ -14,7 +14,7 @@ export const Events = (props) => {
                   {" "}
                   <img src={d.img} alt="" className="event-img" />
                   <h3>{d.subtitle}</h3>
-                  <h3>{d.date}</h3>
+                  <p><b>{d.date}</b></p>
                   <p>{d.text}</p>
                 </div>
               ))
