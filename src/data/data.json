@@ -34,19 +34,19 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "img" : "/img/highlights/1.png",
+      "img" : "img/highlights/1.png",
       "name": "BECOME a pioneer in Brand-led Sustainability™ to creating impact that changes consumers behaviors.",
       "text": ""
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "img" : "/img/highlights/2.png",
+      "img" : "img/highlights/2.png",
       "name": "LEARN meaningful sustainability innovations that drive brand’s growth in both Vietnam and Globally through Real Cases and Public Exhibition.",
       "text": ""
     },
     {
       "icon": "fa fa-cloud-download",
-      "img" : "/img/highlights/3.png",
+      "img" : "img/highlights/3.png",
       "name": "LEARN insights on marketing drivers that change consumers behaviors toward sustainable brands from top brands in the world and the regions.",
       "text": ""
     }
@@ -89,28 +89,28 @@
   "Features": [
     {
       "icon": "fa fa-bullhorn",
-      "img": "/img/highlights/forum.png",
+      "img": "img/highlights/forum.png",
       "title": "FORUM",
       "subtitle":"Brand-led Sustainability™ Forum",
       "text": "Meet, learn and collect valuable and actionable insights from Brand-led Sustainability™ game-changers, industry leaders, and forward-thinking practitioners across various sectors"
     },
     {
       "icon": "fa fa-magic",
-      "img": "/img/highlights/award.png",
+      "img": "img/highlights/award.png",
       "title": "AWARD",
       "subtitle":"Kotler Awards",
       "text": "Global recognition from legendary marketing mastermind for impactful marketers. This award also serves as a platform to showcase new start-ups and unique innovations which have set new standards for the industry."
     },
     {
       "icon": "fa fa-group",
-      "img": "/img/highlights/exhibition.png",
+      "img": "img/highlights/exhibition.png",
       "title": "EXHIBITION",
       "subtitle":"Feedback Loops International Art Exhibition",
       "text": "The exhibition gathers 40 artists from various countries around the world as well as collectives and brands collaborating to explore different sustainable models, creating a space where art, technology, and society intersect. "
     },
     {
       "icon": "fa fa-comments-o",
-      "img": "/img/highlights/leadership.png",
+      "img": "img/highlights/course.png",
       "title": "LEADERSHIP COURSE",
       "subtitle":"The Purpose To Impact - Transform Your Impact",
       "text": "The Purpose to Impact™ Program is a transformative experience that helps leaders and their teams to uncover the unique gift they bring to the world—their purpose."
