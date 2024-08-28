@@ -7,7 +7,7 @@ export const Events = (props) => {
         <div className="col-md-10 col-md-offset-1 section-title">
           <h2>Key Events</h2>
         </div>
-        <div className="col-md-10 col-md-offset-1 row">
+        <div className="col-md-10 col-md-offset-1 row center">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className="col-xs-10 col-sm-10 col-md-4 col-md-offset-1 event-item">

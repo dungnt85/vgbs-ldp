@@ -246,6 +246,11 @@ a:focus,
   display: block;
   margin: auto;
 }
+@media screen and (max-width: 400px) {
+  #header .intro img {
+    max-height: 180px;
+  }
+}
 /* events Section */
 #events {
   background: url(../img/eventbg.png) center bottom no-repeat, rgba(255, 255, 255, 0.75);
