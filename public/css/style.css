@@ -248,9 +248,10 @@ a:focus,
 }
 /* events Section */
 #events {
-  background: url(../img/eventbg.png) center bottom no-repeat;
+  background: url(../img/eventbg.png) center bottom no-repeat, rgba(255, 255, 255, 0.75);
+  background-blend-mode: overlay;
   background-size: auto;
-  padding: 100px 0;
+  padding: 100px 0 60px 0;
   color: #fff;
 }
 #events i.fa {
@@ -266,7 +267,7 @@ a:focus,
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 #events h2 {
-  color: #fff;
+  color: #0a4e9b;
 }
 #events h3 {
   font-weight: 500;
@@ -277,7 +278,6 @@ a:focus,
 #events p {
   color: rgba(255, 255, 255, 0.75);
   text-align: left;
-  padding-bottom: 40px;
 }
 #events img {
   display: inline-block;
@@ -288,7 +288,9 @@ a:focus,
 }
 #events .event-item {
   background-color: #4495d1;
-  border-radius: 0 16px 0 16px;
+  border-radius: 0 12px 0 12px;
+  margin-bottom: 40px;
+  padding: 10px;
   text-align: left;
 }
 /* About Section */
