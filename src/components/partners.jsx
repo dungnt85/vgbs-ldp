@@ -8,7 +8,7 @@ export const Partners = (props) => {
           <h2>Strategic Partners</h2>
         </div>
         <div className="col-xs-12 col-md-12 row center sponsors-image">
-          <img src="img/partners/strategic.png" alt="" />
+          <img src="img/partners/strategic1.png" alt="" />
         </div>
         <div className="section-title text-center">
           <h2>Media Partners</h2>
