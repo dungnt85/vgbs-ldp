@@ -15,6 +15,8 @@ export const Footer = (props) => {
                 <a href="https://huba.vn/" target="_blank">
                   <img src="/img/huba-footer.png" alt="" />
                 </a>
+              </div>
+              <div className="logo-image">
                 <a href="https://vietnambrandpurpose.com/vi" target="_blank">
                   <img src="/img/vbp-footer.png" alt="" />
                 </a>

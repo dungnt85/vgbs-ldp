@@ -391,7 +391,7 @@ a:focus,
 #sponsors, 
 #partners, 
 #mediapartners {
-  padding: 100px 0 0 0;
+  padding: 40px 0 0 0;
   background: #fff;
 }
 #sponsors, 
@@ -406,7 +406,7 @@ a:focus,
   text-align: center;
 }
 .sponsors-image {
-  margin: 0 0 100px 0;
+  margin: 0 0 80px 0;
 }
 .sponsors-image,
 .sponsors-image img {
